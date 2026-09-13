@@ -1,15 +1,15 @@
 Package: com.soruevi.facetimefix
 Name: FaceTime Fix - iOS 7
-Version: 1.0-1
+Version: 1.0-2
 Architecture: iphoneos-arm
-Description: iPhone 4 iOS 7.1.2 FaceTime Apple Kimligi ile giris fixi. Ayarlar > FaceTime > Apple kimliginiz ile giris yapin.
+Description: iPhone 4 iOS 7.1.2 FaceTime Apple Kimligi ile giris fixi. Ayarlar > FaceTime > Apple kimliginiz ile giris yapin. Soruevi.az
 Maintainer: Soruevi.az
 Author: Soruevi.az
 Section: Tweaks
 Depends: mobilesubstrate
-Filename: com.soruevi.facetimefix_1.0-1_iphoneos-arm.deb
-Size: 1292
-MD5sum: b28cbe4d50962e5f4226e6f8456bc0d8
-SHA1: c2fa5e2cd47989157a29e442385caef756a5563c
-SHA256: 9fa28060a9e670dcce7a979d39b7eb898da1f1ba7ed76621ee43e6643e1f6c6b
+Filename: com.soruevi.facetimefix_1.0-2_iphoneos-arm.deb
+Size: 1194
+MD5sum: 5847d0ec34d64df4a8c835820fdd2ff9
+SHA1: a9ddcf844e3e19c91abbc9c10714b3fdcf1df895
+SHA256: adaefc315107be33dbfda7dea287e2d54109b020bf166b698438dd92652d95ef
 
