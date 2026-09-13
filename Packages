@@ -2,7 +2,7 @@ Package: com.soruevi.facetimefix
 Name: FaceTime Fix - iOS 7
 Version: 1.0-2
 Architecture: iphoneos-arm
-Description: iPhone 4 iOS 7.1.2 FaceTime fix - Soruevi.az
+Description: FaceTime fix - Soruevi.az
 Maintainer: Soruevi.az
 Author: Soruevi.az
 Section: Tweaks
@@ -16,7 +16,7 @@ Package: com.soruevi.pubgoffline
 Name: PUBG Offline - iOS 7
 Version: 1.0-700MB
 Architecture: iphoneos-arm
-Description: PUBG Mobile Offline - botlarla offline - Soruevi.az
+Description: PUBG Offline - Soruevi.az
 Maintainer: Soruevi.az
 Author: Soruevi.az
 Section: Games
@@ -27,16 +27,16 @@ SHA1: d403e479bc0790415d827cd713fec698cdf16dbb
 SHA256: bdc01b1885cca725edab2fa14abbdd7852306384fd105d37862a379daf01fb0d
 
 Package: com.soruevi.brawlstars
-Name: Brawl Stars - Season 3 ORIGINAL - iOS 7
-Version: 3.0-Original
+Name: Brawl Stars Season 2 90MB Original
+Version: 2.0-Season2-90MB
 Architecture: iphoneos-arm
-Description: Brawl Stars SEASON 3 ORIGINAL Starr Force Offline - Colonel Ruffs Brawl Pass 70 Tier Tam Orjinal 3 Sezon - Soruevi.az
+Description: Brawl Stars Season 2 Summer of Monsters Original Offline 90MB - Surge Gale Colette Sprout Tam Orjinal - Soruevi.az
 Maintainer: Soruevi.az
 Author: Soruevi.az
 Section: Games
-Filename: com.soruevi.brawlstars_3.0-Original_iphoneos-arm.deb
-Size: 2180
-MD5sum: d460ae6cd2ef7d154da81ac0d5a6c643
-SHA1: a6e889b1249e042801c6875eda3ab17a55ec9f92
-SHA256: 5ec0132658d59e1b42f273dbe9dd0465fe4ac80499eecd2ba3b1eba76afb06b8
+Filename: com.soruevi.brawlstars_2.0-Season2-90MB_iphoneos-arm.deb
+Size: 78660406
+MD5sum: b356d3ea4a8ccfe319788b3b24941133
+SHA1: b6bd026edbe78221fb94e6adacbdb31e1bb5b415
+SHA256: d0646be789f49d74f35d709125e06899f8fadfa748e6f697eedc3a9aea43a6cc
 
