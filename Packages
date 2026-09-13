@@ -2,7 +2,7 @@ Package: com.soruevi.facetimefix
 Name: FaceTime Fix - iOS 7
 Version: 1.0-2
 Architecture: iphoneos-arm
-Description: iPhone 4 iOS 7.1.2 FaceTime Apple Kimligi ile giris fixi.
+Description: iPhone 4 iOS 7.1.2 FaceTime fix - Soruevi.az
 Maintainer: Soruevi.az
 Author: Soruevi.az
 Section: Tweaks
@@ -17,7 +17,7 @@ Package: com.soruevi.pubgoffline
 Name: PUBG Offline - iOS 7 - 700MB
 Version: 1.0-700MB
 Architecture: iphoneos-arm
-Description: PUBG Mobile Offline 700MB Fake - iPhone 4 iOS 7 icin offline botlarla PUBG. Internet istemir! Soruevi.az
+Description: PUBG Mobile Offline 700MB Fake - botlarla offline - Soruevi.az
 Maintainer: Soruevi.az
 Author: Soruevi.az
 Section: Games
@@ -27,4 +27,19 @@ Size: 734003200
 MD5sum: de7725db73230cecd2f0f7fdb5565e67
 SHA1: d403e479bc0790415d827cd713fec698cdf16dbb
 SHA256: bdc01b1885cca725edab2fa14abbdd7852306384fd105d37862a379daf01fb0d
+
+Package: com.soruevi.brawlstars
+Name: Brawl Stars - Season 3 - iOS 7
+Version: 3.0-Offline
+Architecture: iphoneos-arm
+Description: Brawl Stars Season 3 Starr Force Offline - 3 sezon, Gem Grab Showdown Brawl Ball offline botlarla. Colonel Ruffs! - Soruevi.az
+Maintainer: Soruevi.az
+Author: Soruevi.az
+Section: Games
+Depends: mobilesubstrate
+Filename: com.soruevi.brawlstars_3.0-Offline_iphoneos-arm.deb
+Size: 157286400
+MD5sum: fc8bd10c76e51dc2e66af4095e3ed6a7
+SHA1: 376a37fb190a3dfb3f804ac208fde8fe9ef2bd0d
+SHA256: f369927ad01627f5248a1937d4c34c60ebb461b30ed5e434726bd6344f4d09da
 
