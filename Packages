@@ -1,13 +1,9 @@
-Package: com.soruevi.ios26theme
-Name: iOS 26 Theme Settings Inside
-Version: 2.1-Settings
+Package: com.oha.ios26style
+Version: 2.0.0
 Architecture: iphoneos-arm
-Description: iOS 26 Liquid Glass - Settings ici de deyisir! Table cells, background liquid glass - Soruevi.az
-Maintainer: Soruevi.az
 Section: Themes
-Filename: com.soruevi.ios26theme_2.1-Settings_iphoneos-arm.deb
-Size: 1819822
-MD5sum: b4171c96314b04e68ccca9595d73822d
-SHA1: 28c72187ffaf88b6f4d43aaea1c7ce1b271ebde6
-SHA256: dd303c251fea049a4ca218792df943abd64c411f7588de421ffc0b10b84602de
-
+Filename: debs/com.oha.ios26style_2.0.0_iphoneos-arm.deb
+Size: 20440
+MD5sum: fb90134ade76199b75d7b24cc7d4b860
+SHA256: 1fa107bd044c570c03590e8993e5db52a5c6cdd27848a80a1456d7d394f7f7ac
+Description: Lightweight iOS 26-inspired glass UI theme for jailbroken iOS 7 devices.
