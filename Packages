@@ -12,31 +12,31 @@ MD5sum: 5847d0ec34d64df4a8c835820fdd2ff9
 SHA1: a9ddcf844e3e19c91abbc9c10714b3fdcf1df895
 SHA256: adaefc315107be33dbfda7dea287e2d54109b020bf166b698438dd92652d95ef
 
-Package: com.soruevi.pubgoffline
-Name: PUBG Offline - iOS 7
-Version: 1.0-700MB
+Package: com.soruevi.youtubelegacyfix
+Name: YouTube Fix v8-v10 iOS 7
+Version: 1.0-1
 Architecture: iphoneos-arm
-Description: PUBG Offline - Soruevi.az
+Description: YouTube v8-v10 fix iOS 7 - Soruevi.az
 Maintainer: Soruevi.az
 Author: Soruevi.az
-Section: Games
-Filename: com.soruevi.pubgoffline_1.0-700MB_iphoneos-arm.deb
-Size: 3628
-MD5sum: de7725db73230cecd2f0f7fdb5565e67
-SHA1: d403e479bc0790415d827cd713fec698cdf16dbb
-SHA256: bdc01b1885cca725edab2fa14abbdd7852306384fd105d37862a379daf01fb0d
+Section: Tweaks
+Filename: com.soruevi.youtubelegacyfix_1.0-1_iphoneos-arm.deb
+Size: 838
+MD5sum: b16d92a28aa4f19a93345d0a8045dc60
+SHA1: 82191ae94fa09cc8efdc7df6df929504f7f9346a
+SHA256: 4ae766b63b38fac0911361e400fbb0d50641f9ec05fa90e37262ea5143be6f0d
 
-Package: com.soruevi.brawlstars
-Name: Brawl Stars Season 2 90MB Original
-Version: 2.0-Season2-90MB
+Package: com.soruevi.ios26theme
+Name: iOS 26 Theme AAA Liquid Glass
+Version: 1.0-AAA
 Architecture: iphoneos-arm
-Description: Brawl Stars Season 2 Summer of Monsters Original Offline 90MB - Surge Gale Colette Sprout Tam Orjinal - Soruevi.az
+Description: iOS 26 Liquid Glass Theme AAA Quality - iOS 26 wallpaper liquid glass icons dock iPhone 4 - Soruevi.az
 Maintainer: Soruevi.az
 Author: Soruevi.az
-Section: Games
-Filename: com.soruevi.brawlstars_2.0-Season2-90MB_iphoneos-arm.deb
-Size: 78660406
-MD5sum: b356d3ea4a8ccfe319788b3b24941133
-SHA1: b6bd026edbe78221fb94e6adacbdb31e1bb5b415
-SHA256: d0646be789f49d74f35d709125e06899f8fadfa748e6f697eedc3a9aea43a6cc
+Section: Themes
+Filename: com.soruevi.ios26theme_1.0-AAA_iphoneos-arm.deb
+Size: 509788
+MD5sum: 87e9008b0b864df6d6e07200ee0aae1c
+SHA1: 14328a10a5b6ff4489a46beac5bbb00160370782
+SHA256: a00e67af2565a762a69a6f738f962819da406a4676bf57ddaaf5a036ae42f04b
 
