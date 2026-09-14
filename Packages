@@ -1,9 +1,0 @@
-Package: com.oha.ios26style
-Version: 2.0.0
-Architecture: iphoneos-arm
-Section: Themes
-Filename: debs/com.oha.ios26style_2.0.0_iphoneos-arm.deb
-Size: 20440
-MD5sum: fb90134ade76199b75d7b24cc7d4b860
-SHA256: 1fa107bd044c570c03590e8993e5db52a5c6cdd27848a80a1456d7d394f7f7ac
-Description: Lightweight iOS 26-inspired glass UI theme for jailbroken iOS 7 devices.
