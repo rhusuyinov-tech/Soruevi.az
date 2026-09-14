@@ -1,0 +1,8 @@
+Origin: Soruevi.az
+Label: Soruevi.az Repo
+Suite: stable
+Version: 2.2
+Codename: ios7
+Architectures: iphoneos-arm
+Components: main
+Description: Soruevi.az Repo - iOS 26 Theme DIRECT
