@@ -1,0 +1,32 @@
+Package: com.soruevi.ios26theme
+Name: iOS 26 Theme DIRECT
+Version: 2.2-DIRECT
+Architecture: iphoneos-arm
+Description: iOS 26 Liquid Glass DIRECT - Soruevi.az
+Maintainer: Soruevi.az
+Section: Themes
+Filename: debs/com.soruevi.ios26theme_2.2-DIRECT_iphoneos-arm.deb
+Size: 1761328
+MD5sum: 8a213ca7c496db69ea79cb33d93b3eb1
+
+Package: com.soruevi.youtubelegacyfix
+Name: YouTube Fix
+Version: 1.0-1
+Architecture: iphoneos-arm
+Description: YouTube fix
+Maintainer: Soruevi.az
+Section: Fixes
+Filename: debs/com.soruevi.youtubelegacyfix_1.0-1_iphoneos-arm.deb
+Size: 838
+MD5sum: b16d92a28aa4f19a93345d0a8045dc60
+
+Package: com.soruevi.facetimefix
+Name: FaceTime Fix
+Version: 1.0-2
+Architecture: iphoneos-arm
+Description: FaceTime fix
+Maintainer: Soruevi.az
+Section: Fixes
+Filename: debs/com.soruevi.facetimefix_1.0-2_iphoneos-arm.deb
+Size: 1194
+MD5sum: 5847d0ec34d64df4a8c835820fdd2ff9
