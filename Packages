@@ -4,7 +4,6 @@ Version: 1.0-2
 Architecture: iphoneos-arm
 Description: FaceTime fix - Soruevi.az
 Maintainer: Soruevi.az
-Author: Soruevi.az
 Section: Tweaks
 Filename: com.soruevi.facetimefix_1.0-2_iphoneos-arm.deb
 Size: 1194
@@ -16,9 +15,8 @@ Package: com.soruevi.youtubelegacyfix
 Name: YouTube Fix v8-v10 iOS 7
 Version: 1.0-1
 Architecture: iphoneos-arm
-Description: YouTube v8-v10 fix iOS 7 - Soruevi.az
+Description: YouTube v8-v10 fix - Soruevi.az
 Maintainer: Soruevi.az
-Author: Soruevi.az
 Section: Tweaks
 Filename: com.soruevi.youtubelegacyfix_1.0-1_iphoneos-arm.deb
 Size: 838
@@ -27,16 +25,15 @@ SHA1: 82191ae94fa09cc8efdc7df6df929504f7f9346a
 SHA256: 4ae766b63b38fac0911361e400fbb0d50641f9ec05fa90e37262ea5143be6f0d
 
 Package: com.soruevi.ios26theme
-Name: iOS 26 Theme AAA Liquid Glass
-Version: 1.0-AAA
+Name: iOS 26 Theme AAA FIX
+Version: 1.1-FIX
 Architecture: iphoneos-arm
-Description: iOS 26 Liquid Glass Theme AAA Quality - iOS 26 wallpaper liquid glass icons dock iPhone 4 - Soruevi.az
+Description: iOS 26 Liquid Glass Theme AAA FIX - Dependency fixed no error code 1 - Soruevi.az
 Maintainer: Soruevi.az
-Author: Soruevi.az
 Section: Themes
-Filename: com.soruevi.ios26theme_1.0-AAA_iphoneos-arm.deb
-Size: 509788
-MD5sum: 87e9008b0b864df6d6e07200ee0aae1c
-SHA1: 14328a10a5b6ff4489a46beac5bbb00160370782
-SHA256: a00e67af2565a762a69a6f738f962819da406a4676bf57ddaaf5a036ae42f04b
+Filename: com.soruevi.ios26theme_1.1-FIX_iphoneos-arm.deb
+Size: 227860
+MD5sum: 021bb3cf18f9b267f8e7321e9a69b451
+SHA1: 8a333a0f02c67102751dcfe18b827172ec1b66ed
+SHA256: a5d91d765b11483131c2fb763d0381566190cea46f0d69a97e56081d13a9e2d4
 
